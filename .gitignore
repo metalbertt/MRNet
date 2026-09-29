@@ -1,0 +1,4 @@
+﻿MRNet-v1.0/
+cuda_virtual/
+*.csv
+.ipynb_checkpoints/
